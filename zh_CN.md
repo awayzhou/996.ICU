@@ -44,5 +44,6 @@ CEO 白鸦回应“几年后回看，这次绝对是好事”。
 什么是 996.ICU？工作 996，生病 ICU。
 
 附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+996已经out了，哥现在8127
 
 Developers' lives matter.
